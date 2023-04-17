@@ -7,5 +7,5 @@ MongoDB, mongoose, bcryptjs
 .env dotenv
 
 Managing user session with:
--JWT
+JWT
 
